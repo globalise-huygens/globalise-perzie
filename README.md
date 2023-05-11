@@ -55,3 +55,7 @@ for prefix in $prefixes; do
 done
 ```
 
+### Notes on use
+* pages 1-672 contain original transcriptions
+* contains footnotes
+
